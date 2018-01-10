@@ -2,7 +2,7 @@
 
 https://k8smeetup.github.io/
 
-k8s相关资源：https://github.com/ramitsurana/awesome-kubernetes
+k8s相关资源：https://github.com/ramitsurana/awesome-kubernetes  https://github.com/feiskyer/kubernetes-handbook
 
 
 https://github.com/255kb/stack-on-a-budget A collection of services with great free tiers for developers on a budget
