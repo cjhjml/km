@@ -11,7 +11,8 @@ https://github.com/255kb/stack-on-a-budget A collection of services with great f
 一步步部署 kubernetes 集群 https://github.com/opsnull/follow-me-install-kubernetes-cluster
 
 
-
+30-seconds-of-code：https://github.com/Chalarangelo/30-seconds-of-code 
+Curated collection of useful Javascript snippets that you can understand in 30 seconds or less. 
 
 Gin: Gin is a web framework written in Go (Golang). It features a martini-like API with much better performance, up to 40 times faster thanks to httprouter. If you need performance and good productivity, you will love Gin.
 https://github.com/gin-gonic/gin
