@@ -10,6 +10,7 @@ https://github.com/255kb/stack-on-a-budget A collection of services with great f
 
 一步步部署 kubernetes 集群 https://github.com/opsnull/follow-me-install-kubernetes-cluster
 
+cloud native architectures https://github.com/rootsongjc/awesome-cloud-native
 
 Cloud Native Landscape https://github.com/cncf/landscape
 
