@@ -12,6 +12,8 @@ https://github.com/255kb/stack-on-a-budget A collection of services with great f
 
 cloud native architectures https://github.com/rootsongjc/awesome-cloud-native
 
+Cloud Native slides and materials share https://github.com/rootsongjc/cloud-native-slides-share 
+
 Cloud Native Landscape https://github.com/cncf/landscape
 
 
