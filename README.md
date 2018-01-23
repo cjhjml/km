@@ -8,7 +8,7 @@ k8s相关资源：https://github.com/ramitsurana/awesome-kubernetes  https://git
 https://github.com/255kb/stack-on-a-budget A collection of services with great free tiers for developers on a budget
 
 
-一步步部署 kubernetes 集群 https://github.com/opsnull/follow-me-install-kubernetes-cluster
+一步步部署 kubernetes 集群 https://github.com/opsnull/follow-me-install-kubernetes-cluster  https://www.kubernetes.org.cn/
 
 cloud native architectures https://github.com/rootsongjc/awesome-cloud-native
 
