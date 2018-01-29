@@ -16,6 +16,10 @@ Cloud Native slides and materials share https://github.com/rootsongjc/cloud-nati
 
 Cloud Native Landscape https://github.com/cncf/landscape
 
+QAware Big Data Landscape https://github.com/qaware/big-data-landscape
+
+Open Source Components for building a Cloud Native Stack  https://github.com/qaware/cloudnativestack
+
 http://dockerfile.github.io/
 
 30-seconds-of-code：https://github.com/Chalarangelo/30-seconds-of-code 
