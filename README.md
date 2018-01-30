@@ -20,6 +20,8 @@ QAware Big Data Landscape https://github.com/qaware/big-data-landscape
 
 Open Source Components for building a Cloud Native Stack  https://github.com/qaware/cloudnativestack
 
+Awesome Scalability, Availability, and Stability Back-end Design Patterns https://github.com/binhnguyennus/awesome-scalability
+
 http://dockerfile.github.io/
 
 30-seconds-of-code：https://github.com/Chalarangelo/30-seconds-of-code 
