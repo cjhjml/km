@@ -32,6 +32,8 @@ Curated collection of useful Javascript snippets that you can understand in 30 s
 Gin: Gin is a web framework written in Go (Golang). It features a martini-like API with much better performance, up to 40 times faster thanks to httprouter. If you need performance and good productivity, you will love Gin.
 https://github.com/gin-gonic/gin
 
+Elasticsearch 权威指南 https://es.xiaoleilu.com/
+
 awesome: https://github.com/topics/awesome?o=desc&s=stars
 
 https://www.ctolib.com/
