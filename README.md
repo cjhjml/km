@@ -34,6 +34,8 @@ https://github.com/gin-gonic/gin
 
 Elasticsearch 权威指南 https://es.xiaoleilu.com/
 
+BI:https://github.com/apache/incubator-superset
+
 awesome: https://github.com/topics/awesome?o=desc&s=stars
 
 https://www.ctolib.com/
