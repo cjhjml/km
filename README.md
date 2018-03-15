@@ -36,6 +36,8 @@ Elasticsearch 权威指南 https://es.xiaoleilu.com/
 
 BI:https://github.com/apache/incubator-superset
 
+Azure Service Fabric 是一款分布式系统平台 https://github.com/Microsoft/service-fabric https://docs.azure.cn/zh-cn/service-fabric/
+
 awesome: https://github.com/topics/awesome?o=desc&s=stars
 
 https://www.ctolib.com/
