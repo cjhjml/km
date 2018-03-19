@@ -36,6 +36,8 @@ Elasticsearch 权威指南 https://es.xiaoleilu.com/
 
 BI:https://github.com/apache/incubator-superset
 
+Big Data Landscape：http://mattturck.com/wp-content/uploads/2017/05/Matt-Turck-FirstMark-2017-Big-Data-Landscape.png
+
 Azure Service Fabric 是一款分布式系统平台 https://github.com/Microsoft/service-fabric https://docs.azure.cn/zh-cn/service-fabric/
 
 awesome: https://github.com/topics/awesome?o=desc&s=stars
