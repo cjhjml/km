@@ -16,6 +16,8 @@ Cloud Native slides and materials share https://github.com/rootsongjc/cloud-nati
 
 Cloud Native Landscape https://github.com/cncf/landscape
 
+CNCF: https://www.cncf.io/
+
 QAware Big Data Landscape https://github.com/qaware/big-data-landscape
 
 Open Source Components for building a Cloud Native Stack  https://github.com/qaware/cloudnativestack
@@ -39,6 +41,8 @@ BI:https://github.com/apache/incubator-superset
 Big Data Landscape：http://mattturck.com/wp-content/uploads/2017/05/Matt-Turck-FirstMark-2017-Big-Data-Landscape.png
 
 CD:https://github.com/spinnaker/spinnaker
+
+ingress 控制器的许多插件，比如 cert-manager可以用来自动为服务提供 SSL 证书 https://github.com/jetstack/cert-manager
 
 Azure Service Fabric 是一款分布式系统平台 https://github.com/Microsoft/service-fabric https://docs.azure.cn/zh-cn/service-fabric/
 
