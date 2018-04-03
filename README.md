@@ -46,6 +46,8 @@ ingress 控制器的许多插件，比如 cert-manager可以用来自动为服�
 
 Azure Service Fabric 是一款分布式系统平台 https://github.com/Microsoft/service-fabric https://docs.azure.cn/zh-cn/service-fabric/
 
+go storage: https://github.com/gostor/awesome-go-storage
+
 awesome: https://github.com/topics/awesome?o=desc&s=stars
 
 https://www.ctolib.com/
