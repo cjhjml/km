@@ -16,6 +16,8 @@ Cloud Native slides and materials share https://github.com/rootsongjc/cloud-nati
 
 Cloud Native Landscape https://github.com/cncf/landscape
 
+云原生开源项目awesome-cloud-native：  https://jimmysong.io/awesome-cloud-native/ 
+
 CNCF: https://www.cncf.io/
 
 QAware Big Data Landscape https://github.com/qaware/big-data-landscape
