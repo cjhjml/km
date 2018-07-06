@@ -20,6 +20,8 @@ Cloud Native Landscape https://github.com/cncf/landscape
 
 CNCF: https://www.cncf.io/
 
+CNCF landscape: https://landscape.cncf.io
+
 QAware Big Data Landscape https://github.com/qaware/big-data-landscape
 
 Open Source Components for building a Cloud Native Stack  https://github.com/qaware/cloudnativestack
