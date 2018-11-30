@@ -1,0 +1,5 @@
+扩展K8S: https://blog.gmem.cc/extend-kubernetes-with-custom-resources
+
+k8s crd: https://github.com/jungho/k8s-crds
+
+kubebuilder example: https://github.com/codecentric/kubebuilder-starwars-example
